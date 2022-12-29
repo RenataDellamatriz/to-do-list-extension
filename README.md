@@ -10,7 +10,7 @@ Browser Extension Version of Rockeseat's Bootcamp Ignite Challenge
 
 <div>
   
-![empty board](https://user-images.githubusercontent.com/106563089/210003179-35212124-844b-47bb-bd11-40036d13092b.png)
-![full board](https://user-images.githubusercontent.com/106563089/210003196-f33cc149-c3ec-4215-b4c8-482c0f026de8.png)
+![empty board](https://user-images.githubusercontent.com/106563089/210003340-c6149e7a-566f-4fd9-8317-31043ed3839b.png)
+![full board](https://user-images.githubusercontent.com/106563089/210003342-01821284-1b58-4a6a-b0a3-724b705f1b00.png)
   
 </div>
