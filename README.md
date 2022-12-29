@@ -1,1 +1,3 @@
-<h1>To Do List Google Chrome Extension</h1>
+<h1>To Do List</h1>
+<br>
+<h3>Google Chrome extension</h3>
