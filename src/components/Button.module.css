@@ -1,0 +1,19 @@
+.wrapper button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--blue-dark);
+  text-decoration: none;
+  color: var(--gray-100);
+  padding: 1rem;
+  font-size: 0.875rem;
+  border-radius: 8px;
+  gap:0.5rem;
+  transition: 0.2s ease-in-out;
+  border: none;
+}
+
+.wrapper button:hover {
+    background-color: var(--blue);
+    cursor: pointer;
+}

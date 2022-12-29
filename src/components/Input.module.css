@@ -1,0 +1,12 @@
+.wrapper {
+    width: 100%;
+}
+.wrapper input {
+  background-color: var(--gray-500);
+  border: none;
+  border-radius: 8px;
+  padding: 1rem;
+  color: var(--gray-100);
+  font-size: 0.875rem;
+  width: 100%;
+}

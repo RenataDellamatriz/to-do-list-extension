@@ -1,0 +1,21 @@
+.header {
+  width: 100vw;
+  background-color: var(--gray-700);
+  display: flex;
+  justify-content: center;
+  padding: 5rem 0;
+}
+
+.header img {
+  height: 3rem;
+}
+
+@media screen and (max-width: 500px) {
+  .header {
+    padding: 3.5rem 0;
+  }
+
+  .header img {
+    height: 2.5rem;
+  }
+}
