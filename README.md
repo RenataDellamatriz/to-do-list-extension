@@ -18,7 +18,11 @@ Browser Extension version of Rockeseat's Bootcamp Ignite Challenge
 
 ## Tutorial
 
-After cloning the repository, open the Google Chrome browser and click on "Extensions" and then click on "Manage Extensions"
+After cloning the repository:
+
+-Install dependencies: 'npm install' and then 'npm run build:watch'
+
+-Open the Google Chrome browser and click on "Extensions" and then click on "Manage Extensions"
 
 ![img 1](https://user-images.githubusercontent.com/106563089/210091316-84722cc5-4fe5-4939-a615-e687c36e0936.png)
 
