@@ -11,11 +11,12 @@ Browser Extension version of Rockeseat's Bootcamp Ignite Challenge
  
 ![board 1board](https://user-images.githubusercontent.com/106563089/210004800-f1b40ba7-7bb2-48ba-a1b4-37ef1f201ffd.png)
 
- </div>
+</div>
  
- <div align="left >
+<div align="left">        
+         
 
-##Tutorial
+## Tutorial
 
 After cloning the repository, open the Google Chrome browser and click on "Extensions" and then click on "Manage Extensions"
 
