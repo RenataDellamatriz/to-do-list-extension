@@ -28,7 +28,7 @@ Then click on "developer mode"
 
 Click "Load without compression". Look for the folder where your project is and select the "dist" folder.
 
-![img 3](https://user-images.githubusercontent.com/106563089/210091839-26bb9990-332e-4b6c-9bbc-62d4b0cb443a.png)
+![img 3](https://user-images.githubusercontent.com/106563089/210092146-c9d3e463-4520-44f2-a948-a4a932ae3624.png)
  
 </div>
 
