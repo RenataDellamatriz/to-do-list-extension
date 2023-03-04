@@ -1,6 +1,6 @@
 <div align="center">
 <h1>To Do List</h1>
-<a href='https://to-do-list-plum-eta.vercel.app/'>Web version</a>
+ <h2><a href='https://to-do-list-plum-eta.vercel.app/'>Web version here</a></h2>
 <h3>Google Chrome extension</h3>
 
 ## Description
